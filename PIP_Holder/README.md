@@ -1,16 +1,17 @@
-# PIP Holder - Foldable print in place spoolholder 
+# PIP Holder - Foldable print in place spool holder 
 
 
-This is a spoolholder for the V0.x that can be folded awy for transport or simply when not used to save space.
+This is a spool holder for the V0.x that can be folded away for transport or simply when not used to save space.
 
-It is a print in place design, so no aditional hardware or assembly needed.
-The part has a locking mechanim built in to keep it in place when in use.
+It is a print in place design, so no additional hardware or assembly needed.
+The part has a locking mechanism built in to keep it in place when in use.
 
-Make sure that you enforece 0.4mm layer width as recomended by the Voron printing guides.
+Make sure that you enforce 0.4mm layer width as recommended by the Voron printing guides.
 
 
-Note: Ther is a tiny internal support structure that need to broken on first use. So don't be surprised if you need a but of niitial force.
-After that it should moove feely. 
+Note: There is a tiny internal support structure that need to broke on first use. So, don't be surprised if you need a bit of initial force.
+After that it should move freely.
+
 
 
 ![PIP](./Images/Untitled.jpg)

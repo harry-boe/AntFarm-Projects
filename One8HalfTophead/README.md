@@ -1,7 +1,7 @@
 # One & Half Tophat
 
 
-If you like the jinge and the IKEA style front idler locks, than this is for U
+If you like the hinge and the IKEA style front idler locks of the V0.2, than this is for U
 
 It's as well a migration path until extrusions for the V0.2 tophat become availabe
 
